@@ -1,0 +1,15 @@
+{
+  "name": "example_server",
+  "version": "0.0.1",
+  "description": "Example server to reply to requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
